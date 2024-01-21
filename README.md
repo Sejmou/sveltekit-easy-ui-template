@@ -1,18 +1,15 @@
-# create-svelte
+# SvelteKit + TailwindCSS + daisyui components + Iconify icons
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+A template to quickly get you started building a visually appealing web app with SvelteKit.
 
-## Creating a project
+Includes:
+- [TailwindCSS](https://tailwindcss.com/)
+- [daisyUI](https://daisyui.com/)
+- [Iconify](https://iconify.design/) icons
 
-If you're seeing this, you've probably already done this step. Congrats!
+This template uses TypeScript to add some type safety to your code as well.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+NOTE: replace `npm` in the commands below with `pnpm`, `yarn` or whatever package manager you prefer. I happen to use `pnpm` myself.
 
 ## Developing
 
